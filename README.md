@@ -1,8 +1,1 @@
-```
-    (o)(o)
-  w"      "w
- W  -====-  W
-  "w      w"
- w""""""""""w
-W            W
-```
+Hi, I like cookies.
